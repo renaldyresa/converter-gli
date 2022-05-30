@@ -1,0 +1,8 @@
+README.md
+setup.py
+converter_gli/__init__.py
+converter_gli/src.py
+converter_gli.egg-info/PKG-INFO
+converter_gli.egg-info/SOURCES.txt
+converter_gli.egg-info/dependency_links.txt
+converter_gli.egg-info/top_level.txt
