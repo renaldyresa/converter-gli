@@ -4,7 +4,7 @@
 ## Installation
 
 ```sh
-pip install git+https://github.com/renaldyresa/logging-gli@main
+pip install git+https://github.com/renaldyresa/converter-gli@main
 ```
 
 
